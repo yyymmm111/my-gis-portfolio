@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "author": "GIS学习者",
+    "title": "我的GIS作品集",
+    "description": "记录学习我的成长轨迹与生活足迹",
+    "version": "1.0.0",
+    "created": "2026-06-20"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "家乡 - 甘肃省宁县",
+        "category": "hometown",
+        "categoryName": "家乡",
+        "date": "2005-04-09",
+        "description": "我的家乡，位于黄土高原，是一座历史悠久的城市",
+        "icon": "🏠",
+        "color": "#e74c3c",
+        "importance": 100,
+        "highlights": ["历史古城", "美食之城"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.883423, 35.427681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "银川二中",
+        "category": "education",
+        "categoryName": "教育",
+        "date": "2020-09-01",
+        "endDate": "2023-06-30",
+        "description": "银川市重点高中，在这里度过了三年紧张而充实的高中生活",
+        "icon": "🏫",
+        "color": "#3498db",
+        "importance": 90,
+        "highlights": ["省重点高中", "竞赛获奖", "结识挚友"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.272874, 38.469472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "重庆交通大学",
+        "category": "education",
+        "categoryName": "教育",
+        "date": "2023-09-01",
+        "description": "现在就读的学校，专业是地理空间信息工程",
+        "icon": "🎓",
+        "color": "#3498db",
+        "importance": 95,
+        "highlights": ["487高校", "GIS专业", "科研机会"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.468262, 29.486518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "天安门广场",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2020-10-01",
+        "description": "第一次参观天安门广场，感受到首都的庄严与伟大",
+        "icon": "🇨🇳",
+        "color": "#27ae60",
+        "importance": 85,
+        "highlights": ["国家象征", "升旗仪式", "历史见证"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403874, 39.914889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "故宫博物院",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2020-10-01",
+        "description": "世界最大的宫殿建筑群，中华文化的瑰宝",
+        "icon": "🏯",
+        "color": "#27ae60",
+        "importance": 88,
+        "highlights": ["世界遗产", "六百年历史", "建筑艺术"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.396442, 39.916333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "八达岭长城",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2021-05-01",
+        "description": "不到长城非好汉！登上了八达岭长城，俯瞰壮丽山河",
+        "icon": "🧗",
+        "color": "#27ae60",
+        "importance": 92,
+        "highlights": ["世界奇迹", "壮丽风景", "历史足迹"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.021490, 40.355764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "天津之眼",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2021-06-15",
+        "description": "天津的地标建筑，世界上唯一建在桥上的摩天轮",
+        "icon": "🎡",
+        "color": "#27ae60",
+        "importance": 75,
+        "highlights": ["地标建筑", "摩天轮", "海河风光"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.200983, 39.134202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "秦皇岛 - 黄金海岸",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2022-07-20",
+        "description": "暑假与家人一起到秦皇岛看海，体验了真正的碧海蓝天",
+        "icon": "🏖️",
+        "color": "#27ae60",
+        "importance": 80,
+        "highlights": ["海滨城市", "避暑胜地", "沙滩海鲜"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.532890, 39.771682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "石家庄 - 勒泰中心",
+        "category": "food",
+        "categoryName": "美食",
+        "date": "2022-02-15",
+        "description": "在石家庄品尝了正宗的金凤扒鸡和缸炉烧饼",
+        "icon": "🍜",
+        "color": "#f39c12",
+        "importance": 70,
+        "highlights": ["特色美食", "城市地标", "商圈繁华"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.480739, 38.041978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "白洋淀",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2021-08-10",
+        "description": "华北最大的淡水湖泊，荷花盛开时节美不胜收",
+        "icon": "🌸",
+        "color": "#27ae60",
+        "importance": 78,
+        "highlights": ["华北明珠", "荷花盛开", "湿地生态"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.928390, 38.906175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "雄安新区",
+        "category": "life",
+        "categoryName": "生活",
+        "date": "2023-03-20",
+        "description": "参观雄安新区规划展示中心，了解未来之城的发展蓝图",
+        "icon": "🏙️",
+        "color": "#9b59b6",
+        "importance": 82,
+        "highlights": ["未来之城", "规划展示", "科技发展"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.104584, 38.995979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "北京世园公园",
+        "category": "travel",
+        "categoryName": "旅行",
+        "date": "2023-05-01",
+        "description": "2019北京世园会园区，各类特色展园令人目不暇接",
+        "icon": "🌺",
+        "color": "#27ae60",
+        "importance": 76,
+        "highlights": ["园艺博览", "各国展园", "自然风光"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.118630, 40.330149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "山西省博物院",
+        "category": "culture",
+        "categoryName": "文化",
+        "date": "2023-07-15",
+        "description": "了解三晋大地悠久的历史文化，青铜器馆藏令人震撼",
+        "icon": "🏛️",
+        "color": "#e67e22",
+        "importance": 77,
+        "highlights": ["文物珍宝", "历史文化", "青铜器"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.541053, 37.862418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "目标 - 上海",
+        "category": "dream",
+        "categoryName": "梦想",
+        "date": "2025-12-31",
+        "description": "未来的目标城市，希望有机会在上海发展",
+        "icon": "🎯",
+        "color": "#1abc9c",
+        "importance": 85,
+        "highlights": ["经济中心", "GIS发展", "城市魅力"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.473701, 31.230416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "北京798艺术区",
+        "category": "culture",
+        "categoryName": "文化",
+        "date": "2022-11-20",
+        "description": "充满艺术气息的文化园区，各种创意小店和艺术展览",
+        "icon": "🎨",
+        "color": "#e67e22",
+        "importance": 74,
+        "highlights": ["艺术园区", "创意空间", "文艺打卡"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.507420, 39.981963]
+      }
+    }
+  ]
+}
